@@ -1,0 +1,7 @@
+# Config file
+credentials.py
+
+.vscode/
+dist/
+virtualEnv/
+How_to_use.txt
