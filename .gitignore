@@ -1,8 +1,8 @@
 # Config file
 credentials.py
-
+pipinstall.py
 .vscode/
 dist/
 virtualEnv/
 How_to_use.txt
-output.txt
+output*.txt
